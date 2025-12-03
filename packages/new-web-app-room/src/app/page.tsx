@@ -44,7 +44,7 @@ export default function TodoApp() {
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-8 px-4">
       <div className="max-w-md mx-auto bg-white rounded-lg shadow-lg p-6">
         <h1 className="text-3xl font-bold text-gray-800 text-center mb-8">
-          Todo App v2
+          Todo App v3
         </h1>
         
         {/* Add Todo Input */}
@@ -129,5 +129,6 @@ export default function TodoApp() {
     </div>
   );
 }
+
 
 
